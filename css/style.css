@@ -38,19 +38,28 @@ li {
 .welcome-text a {
     color: #f7542e;
 }
+
 /* Responsive */
-.responsive{
+.content {
     margin: 25px 0;
 }
-.responsive table{
+
+.content table {
     margin: 25px 0;
 }
-.responsive h1 {
+
+.content h1 {
     font-size: 28px;
 }
 
-.responsive img {
-    height: 150px;
-    width: 200px;
+.content img {
+    height: 100px;
+    width: 150px;
 }
+
+.content a {
+    padding: 10px;
+    text-decoration: none;
+}
+
 /* Responsive */
