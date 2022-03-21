@@ -23,7 +23,6 @@ li {
 }
 
 .welcome-text {
-    margin-top: 200px;
     font-weight: 500;
 }
 
@@ -39,3 +38,19 @@ li {
 .welcome-text a {
     color: #f7542e;
 }
+/* Responsive */
+.responsive{
+    margin: 25px 0;
+}
+.responsive table{
+    margin: 25px 0;
+}
+.responsive h1 {
+    font-size: 28px;
+}
+
+.responsive img {
+    height: 150px;
+    width: 200px;
+}
+/* Responsive */
